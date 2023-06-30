@@ -1,0 +1,62 @@
+img {
+  width: 50px;
+}
+.boyar .boyar__avatar {
+  margin-top: 100px;
+}
+.boyar .boyar__avatar img {
+  width: 100%;
+}
+.boyar .boyar__title {
+  margin-top: 4rem;
+  text-align: center;
+}
+.boyar .boyar__title span {
+  border-bottom-style: solid;
+  border-width: 4px;
+  padding: 10px;
+  font-size: 40px;
+  font-weight: bold;
+}
+.boyar .boyar__tabs {
+  display: flex;
+  margin-top: 10rem;
+}
+.boyar .boyar__tabs .boyar__tabs__window {
+  margin-top: 1rem;
+}
+.boyar .boyar__tabs .boyar__tabs__window .boyar__tabs__window__block {
+  margin-top: 20px;
+}
+.boyar .boyar__tabs .boyar__tabs__window .boyar__tabs__window__block span {
+  font-weight: bold;
+  display: block;
+}
+.footer {
+  background-color: black;
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  color: white;
+  margin-top: 20rem;
+}
+.footer a {
+  display: block;
+  color: white;
+  text-decoration: none;
+}
+.footer a:hover {
+  color: greenyellow;
+}
+.sound-swithc {
+  display: inline-block;
+  position: fixed;
+  bottom: 40px;
+  left: 40px;
+  color: #ff4b4b;
+  cursor: pointer;
+}
+.sound-swithc i {
+  border-color: red;
+  font-size: 38px;
+}
