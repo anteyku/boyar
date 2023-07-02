@@ -60,3 +60,6 @@ img {
   border-color: red;
   font-size: 38px;
 }
+td.comment img {
+  min-width: 400px;
+}
